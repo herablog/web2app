@@ -2,6 +2,8 @@
 
 web2app is an easily converter from Web URLs to App URIs.
 
+![web2app](https://raw.githubusercontent.com/herablog/web2app/master/screenshots/home.png)
+
 ## What's the app URI?
 Google recently released App Indexing. They said this:
 
@@ -44,7 +46,7 @@ The more you generate App URL, the more difficult it becomes to remember the ori
 ## Installation
 
 ### Web Version
-If you want to use this application right now, please access [the Web Version](https://github.com).
+If you want to use this application right now, please access [the Web Version](https://herablog.github.io/web2app/).
 
 ### CLI Version
 CLI Version has more features: multiple URLs and several format styles.
@@ -60,7 +62,7 @@ web2app --config youtube.json --format csv
 ```
 
 ### Options
-- `config` Configration JSON file. Example is [here](http://github.com).
+- `config` Configration JSON file. Example is [here](https://github.com/herablog/web2app/blob/master/examples/youtube_config.json).
 - `url` Web URL. You can connect multiple URLs with `,`.
 - `ios_scheme` Custom URL Scheme for iOS. e.g. `youtube://`
 - `android_scheme` Custom URL Scheme for Android.
@@ -136,3 +138,5 @@ App Indexing for iOS,ios-app://544007664/youtube/www.youtube.com/watch?v=dQw4w9W
 
 #### html
 I recommend html format! It shows the QR Code of each URL, so you can check whether the url is valid or not on your phone.
+
+![HTML Format](https://raw.githubusercontent.com/herablog/web2app/master/screenshots/html.png)
