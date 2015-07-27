@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Web URL",
+    "uri": "https://example.com/{path}?a=b#c",
+    "platform": "Web"
+  },
+  {
+    "name": "Custom URL Scheme for Android",
+    "uri": "example2://example.com/{path}?a=b#c",
+    "platform": "Android"
+  },
+  {
+    "name": "App Indexing for Android (http)",
+    "uri": "android-app://com.example/https/example.com/{path}?a=b#c",
+    "platform": "Android"
+  },
+  {
+    "name": "App Indexing for Android (custom scheme)",
+    "uri": "android-app://com.example/example2/example.com/{path}?a=b#c",
+    "platform": "Android"
+  },
+  {
+    "name": "Custom URL Scheme for iOS",
+    "uri": "example://example.com/{path}?a=b#c",
+    "platform": "iOS"
+  },
+  {
+    "name": "App Indexing for iOS",
+    "uri": "ios-app://12345/example/example.com/{path}?a=b#c",
+    "platform": "iOS"
+  }
+]

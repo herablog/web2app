@@ -1,0 +1,6 @@
+http://www.youtube.com/watch?v=dQw4w9WgXcQ
+youtube://www.youtube.com/watch?v=dQw4w9WgXcQ
+android-app://com.google.android.youtube/http/www.youtube.com/watch?v=dQw4w9WgXcQ
+android-app://com.google.android.youtube/youtube/www.youtube.com/watch?v=dQw4w9WgXcQ
+youtube://www.youtube.com/watch?v=dQw4w9WgXcQ
+ios-app://544007664/youtube/www.youtube.com/watch?v=dQw4w9WgXcQ

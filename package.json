@@ -1,0 +1,51 @@
+{
+  "name": "web2app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/web2app.js",
+  "bin": "bin/web2app.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/herablog/web2app"
+  },
+  "bugs": {
+    "url": "https://github.com/herablog/web2app/issues"
+  },
+  "keywords": [
+    "App Indexing",
+    "web2app",
+    "SEO",
+    "Native SEO"
+  ],
+  "author": "Hara Kazunari <kz.route21@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^11.0.0",
+    "chai": "^3.2.0",
+    "eslint": "^0.24.1",
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1",
+    "karma": "^0.13.3",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-coverage": "^0.4.2",
+    "karma-mocha": "^0.2.0",
+    "karma-mocha-reporter": "^1.0.2",
+    "lodash": "^3.10.0",
+    "minifyify": "^7.0.3",
+    "mocha": "^2.2.5",
+    "power-assert": "^0.11.0"
+  },
+  "dependencies": {
+    "base64": "^2.1.0",
+    "commander": "^2.8.1",
+    "json-2-csv": "^1.3.0",
+    "riot": "^2.2.2"
+  }
+}

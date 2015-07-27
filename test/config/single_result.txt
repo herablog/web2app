@@ -1,0 +1,6 @@
+https://example.com/{path}?a=b#c
+example2://example.com/{path}?a=b#c
+android-app://com.example/https/example.com/{path}?a=b#c
+android-app://com.example/example2/example.com/{path}?a=b#c
+example://example.com/{path}?a=b#c
+ios-app://12345/example/example.com/{path}?a=b#c

@@ -1,0 +1,8 @@
+name,uri,platform
+Web URL,http://www.youtube.com/watch?v=dQw4w9WgXcQ,Web
+Custom URL Scheme for Android,youtube://www.youtube.com/watch?v=dQw4w9WgXcQ,Android
+App Indexing for Android (http),android-app://com.google.android.youtube/http/www.youtube.com/watch?v=dQw4w9WgXcQ,Android
+App Indexing for Android (custom scheme),android-app://com.google.android.youtube/youtube/www.youtube.com/watch?v=dQw4w9WgXcQ,Android
+Custom URL Scheme for iOS,youtube://www.youtube.com/watch?v=dQw4w9WgXcQ,iOS
+App Indexing for iOS,ios-app://544007664/youtube/www.youtube.com/watch?v=dQw4w9WgXcQ,iOS
+

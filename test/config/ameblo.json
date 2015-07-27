@@ -1,0 +1,16 @@
+{
+  "url": [
+    "https://s.amebame.com/",
+    "http://sofficial.ameba.jp/",
+    "http://sofficial.ameba.jp/officialAccessRankingImage.do",
+    "http://blog.ameba.jp/ucs/sptop.do",
+    "http://ameblo.jp/shibuya/",
+    "http://ameblo.jp/shibuya/entry-11950564829.html",
+    "http://ranking.ameba.jp/,https://amb-uranai.ameba.jp/column/130",
+    "http://content.ameba.jp/pigg/2013summer/"
+  ],
+  "ios_scheme": "jpameblo://",
+  "android_scheme": "jpameblo://",
+  "store": "349442137",
+  "package": "jp.ameba"
+}

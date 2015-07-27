@@ -1,0 +1,9 @@
+{
+  "url": [
+    "http://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  ],
+  "ios_scheme": "youtube://",
+  "android_scheme": "youtube://",
+  "store": "544007664",
+  "package": "com.google.android.youtube"
+}

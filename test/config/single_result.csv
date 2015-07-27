@@ -1,0 +1,8 @@
+name,uri,platform
+Web URL,https://example.com/{path}?a=b#c,Web
+Custom URL Scheme for Android,example2://example.com/{path}?a=b#c,Android
+App Indexing for Android (http),android-app://com.example/https/example.com/{path}?a=b#c,Android
+App Indexing for Android (custom scheme),android-app://com.example/example2/example.com/{path}?a=b#c,Android
+Custom URL Scheme for iOS,example://example.com/{path}?a=b#c,iOS
+App Indexing for iOS,ios-app://12345/example/example.com/{path}?a=b#c,iOS
+

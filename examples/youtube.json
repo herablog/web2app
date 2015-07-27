@@ -1,0 +1,34 @@
+[
+  [
+    {
+      "name": "Web URL",
+      "uri": "http://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "platform": "Web"
+    },
+    {
+      "name": "Custom URL Scheme for Android",
+      "uri": "youtube://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "platform": "Android"
+    },
+    {
+      "name": "App Indexing for Android (http)",
+      "uri": "android-app://com.google.android.youtube/http/www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "platform": "Android"
+    },
+    {
+      "name": "App Indexing for Android (custom scheme)",
+      "uri": "android-app://com.google.android.youtube/youtube/www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "platform": "Android"
+    },
+    {
+      "name": "Custom URL Scheme for iOS",
+      "uri": "youtube://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "platform": "iOS"
+    },
+    {
+      "name": "App Indexing for iOS",
+      "uri": "ios-app://544007664/youtube/www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "platform": "iOS"
+    }
+  ]
+]
